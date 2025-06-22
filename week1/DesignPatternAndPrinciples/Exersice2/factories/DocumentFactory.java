@@ -1,12 +1,8 @@
 package week1.DesignPatternAndPrinciples.Exersice2.factories;
 
-public abstract class DocumentFactory {
-    public interface Document {
-        void open();
-        void save();
-        void close();
-    }
+import week1.DesignPatternAndPrinciples.Exersice2.documents.Document;
 
+public abstract class DocumentFactory {
     public abstract Document createDocument();
     
     public void processDocument() {

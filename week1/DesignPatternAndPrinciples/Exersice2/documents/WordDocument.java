@@ -1,6 +1,5 @@
 package week1.DesignPatternAndPrinciples.Exersice2.documents;
 
-
 public class WordDocument implements Document {
     @Override
     public void open() {
