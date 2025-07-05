@@ -9,10 +9,10 @@ public class Main {
         System.out.println("Library Management App Started!");
         
         // Load Spring context
-        ApplicationContext context = 
-            new ClassPathXmlApplicationContext("applicationContext.xml");
+        // ApplicationContext context = 
+        //     new ClassPathXmlApplicationContext("applicationContext.xml");
             
-        BookService bookService = context.getBean("bookService", BookService.class);
-        System.out.println("Spring context loaded successfully!");
+        // BookService bookService = context.getBean("bookService", BookService.class);
+        System.out.println("Spring context loaded successfully!"); 
     }
 }
