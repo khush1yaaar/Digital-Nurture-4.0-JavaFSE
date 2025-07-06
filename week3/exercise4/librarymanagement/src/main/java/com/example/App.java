@@ -1,13 +1,11 @@
-package com.example;
+package week3.exercise4.librarymanagement.src.main.java.com.example;
 
 /**
  * Hello world!
  *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
+public class App {
+    public static void main( String[] args ) {
         System.out.println( "Hello World!" );
     }
 }
