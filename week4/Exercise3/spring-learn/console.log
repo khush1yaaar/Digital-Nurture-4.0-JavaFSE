@@ -1,0 +1,396 @@
+2025-07-13T17:25:57.580+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 7436 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:25:57.601+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 7436 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:25:58.280+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:25:58.519+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:25:59.269+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:25:59.514+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:25:59.619+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:25:59.634+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:25:59.635+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:25:59.645+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:25:59.669+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:25:59.689+05:30  INFO 7436 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1131 ms
+2025-07-13T17:25:59.719+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:25:59.749+05:30  INFO 7436 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1135 ms
+2025-07-13T17:25:59.819+05:30  WARN 7436 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:25:59.884+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57523 (http) with context path '/'
+2025-07-13T17:25:59.889+05:30  WARN 7436 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:25:59.980+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 4.346 seconds (process running for 1002.398)
+2025-07-13T17:25:59.990+05:30  INFO 7436 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:25:59.990+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57524 (http) with context path '/'
+2025-07-13T17:25:59.998+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:26:00.000+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 4.349 seconds (process running for 1002.421)
+2025-07-13T17:26:00.074+05:30  INFO 7436 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:26:00.260+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:26:07.849+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 4936 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:26:07.857+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:26:08.376+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:26:08.399+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:26:08.406+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:26:08.439+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:26:08.459+05:30  INFO 4936 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 600 ms
+2025-07-13T17:26:08.790+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 5892 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:26:08.790+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 5892 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:26:08.822+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:26:08.852+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:26:09.346+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:26:09.399+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:26:09.415+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:26:09.419+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:26:09.421+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:26:09.423+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:26:09.455+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:26:09.498+05:30  INFO 5892 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 644 ms
+2025-07-13T17:26:09.498+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:26:09.517+05:30  INFO 5892 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 628 ms
+2025-07-13T17:26:09.647+05:30  WARN 5892 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:26:09.660+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57532 (http) with context path '/'
+2025-07-13T17:26:09.690+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 1.061 seconds (process running for 303.829)
+2025-07-13T17:26:09.735+05:30  WARN 5892 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:26:09.735+05:30  INFO 5892 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:26:09.850+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57533 (http) with context path '/'
+2025-07-13T17:26:09.950+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:26:09.961+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 1.33 seconds (process running for 304.1)
+2025-07-13T17:26:09.974+05:30  INFO 5892 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:26:10.229+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:26:10.814+05:30  WARN 4936 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:26:10.839+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57534 (http) with context path '/'
+2025-07-13T17:26:10.859+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 3.343 seconds (process running for 366.967)
+2025-07-13T17:26:10.864+05:30  INFO 4936 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:26:10.869+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:26:47.562+05:30  INFO 7436 --- [spring-learn] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-13T17:26:47.568+05:30  INFO 5892 --- [spring-learn] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-13T17:26:47.592+05:30  INFO 7436 --- [spring-learn] [Thread-40] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T17:26:47.593+05:30  INFO 5892 --- [spring-learn] [Thread-24] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T17:26:47.614+05:30  INFO 7436 --- [spring-learn] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-13T17:26:47.849+05:30  INFO 7436 --- [spring-learn] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-13T17:26:47.841+05:30  INFO 5892 --- [spring-learn] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-13T17:26:47.963+05:30  INFO 5892 --- [spring-learn] [Thread-24] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T17:26:47.952+05:30  INFO 7436 --- [spring-learn] [Thread-40] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T17:26:48.254+05:30  INFO 5892 --- [spring-learn] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-13T17:26:48.274+05:30  INFO 7436 --- [spring-learn] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-13T17:26:48.314+05:30  INFO 4936 --- [spring-learn] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-13T17:26:48.324+05:30  INFO 11036 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 11036 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:26:48.370+05:30  INFO 11036 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:26:48.464+05:30  INFO 4936 --- [spring-learn] [Thread-19] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T17:26:49.229+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 5892 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:26:49.264+05:30  INFO 4936 --- [spring-learn] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-13T17:26:49.265+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:26:49.454+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:26:49.511+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:26:49.489+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 7436 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:26:49.646+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:26:49.662+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:26:49.780+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:26:49.670+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 7436 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:26:49.949+05:30  INFO 11036 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1567 ms
+2025-07-13T17:26:50.058+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:26:50.504+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 4936 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:26:50.709+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:26:50.723+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:26:50.796+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:26:51.119+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:26:51.303+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:26:51.460+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:26:51.524+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:26:51.819+05:30  INFO 5892 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2455 ms
+2025-07-13T17:26:51.822+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:26:51.864+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:26:52.473+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:26:52.194+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:26:52.591+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:26:52.520+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:26:52.672+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:26:52.627+05:30  INFO 7436 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2648 ms
+2025-07-13T17:26:52.819+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:26:52.909+05:30  INFO 4936 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2170 ms
+2025-07-13T17:26:52.705+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:26:56.017+05:30  WARN 5892 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:26:56.153+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:26:56.158+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-07-13T17:26:56.481+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57548 (http) with context path '/'
+2025-07-13T17:26:56.350+05:30  WARN 7436 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:26:56.537+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57549 (http) with context path '/'
+2025-07-13T17:26:57.147+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 8.401 seconds (process running for 351.286)
+2025-07-13T17:26:56.523+05:30  INFO 7436 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 6363 ms
+2025-07-13T17:26:57.164+05:30  INFO 11036 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 9.117 seconds (process running for 2694.738)
+2025-07-13T17:26:57.259+05:30  INFO 5892 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:26:57.164+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57550 (http) with context path '/'
+2025-07-13T17:26:57.392+05:30  INFO 11036 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:26:57.394+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:26:57.471+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 8.463 seconds (process running for 1059.888)
+2025-07-13T17:26:57.551+05:30  INFO 11036 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:26:57.569+05:30  WARN 7436 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:26:57.599+05:30  INFO 7436 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:26:58.118+05:30  INFO 5892 --- [spring-learn] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-13T17:26:58.311+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:26:58.324+05:30  INFO 11036 --- [spring-learn] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-13T17:26:58.504+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57551 (http) with context path '/'
+2025-07-13T17:26:58.772+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 9.764 seconds (process running for 1061.19)
+2025-07-13T17:26:59.086+05:30  INFO 7436 --- [spring-learn] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-13T17:26:59.077+05:30  INFO 11036 --- [spring-learn] [Thread-161] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T17:26:59.105+05:30  INFO 7436 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:26:59.464+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:26:59.736+05:30  INFO 5892 --- [spring-learn] [Thread-31] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T17:26:59.753+05:30  INFO 11036 --- [spring-learn] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-13T17:27:00.203+05:30  INFO 5892 --- [spring-learn] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-13T17:27:00.463+05:30  INFO 7436 --- [spring-learn] [Thread-48] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T17:27:00.865+05:30  INFO 7436 --- [spring-learn] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-13T17:27:00.954+05:30  INFO 7436 --- [spring-learn] [Thread-48] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T17:27:01.328+05:30  INFO 7436 --- [spring-learn] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-13T17:27:01.462+05:30  INFO 7436 --- [spring-learn] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-13T17:27:02.249+05:30  WARN 4936 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:27:02.254+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57556 (http) with context path '/'
+2025-07-13T17:27:02.265+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 12.582 seconds (process running for 418.373)
+2025-07-13T17:27:02.268+05:30  INFO 4936 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:27:02.268+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:27:03.707+05:30  INFO 4936 --- [spring-learn] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-13T17:27:03.836+05:30  INFO 4936 --- [spring-learn] [Thread-23] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-13T17:27:04.182+05:30  INFO 4936 --- [spring-learn] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-13T17:27:11.589+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 4936 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:27:11.659+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:27:12.105+05:30  INFO 11036 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 11036 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:27:12.339+05:30  INFO 11036 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:27:13.879+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 5892 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:27:14.019+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:27:14.134+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 7436 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:27:14.315+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:27:15.079+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:27:15.474+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:27:15.519+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:27:15.604+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:27:15.614+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:27:15.654+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 7436 (C:\Users\admin\Desktop\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\spring-learn)
+2025-07-13T17:27:15.714+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:27:15.714+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:27:15.839+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:27:15.855+05:30  INFO 4936 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4036 ms
+2025-07-13T17:27:15.839+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:27:15.855+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:27:15.839+05:30  INFO 11036 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3005 ms
+2025-07-13T17:27:15.875+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:27:15.883+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T17:27:16.021+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:27:16.079+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-07-13T17:27:16.114+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:27:16.126+05:30  INFO 5892 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1842 ms
+2025-07-13T17:27:16.133+05:30  INFO 11036 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57562 (http) with context path '/'
+2025-07-13T17:27:16.194+05:30  INFO 11036 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 4.98 seconds (process running for 2713.768)
+2025-07-13T17:27:16.199+05:30  INFO 11036 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:27:16.224+05:30  INFO 11036 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : START
+2025-07-13T17:27:16.236+05:30  INFO 11036 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : END
+2025-07-13T17:27:16.239+05:30  INFO 11036 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:27:16.196+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:27:16.279+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:27:16.408+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:27:16.494+05:30  INFO 7436 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2026 ms
+2025-07-13T17:27:17.093+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T17:27:17.229+05:30  WARN 7436 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:27:17.254+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T17:27:17.271+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57563 (http) with context path '/'
+2025-07-13T17:27:17.316+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T17:27:17.327+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 5.677 seconds (process running for 1079.744)
+2025-07-13T17:27:17.359+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2025-07-13T17:27:17.365+05:30  INFO 7436 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:27:17.374+05:30  INFO 7436 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1145 ms
+2025-07-13T17:27:17.385+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : START
+2025-07-13T17:27:17.484+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : END
+2025-07-13T17:27:17.567+05:30  WARN 7436 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:27:17.639+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:27:17.659+05:30  INFO 7436 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57564 (http) with context path '/'
+2025-07-13T17:27:17.747+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 6.058 seconds (process running for 1080.165)
+2025-07-13T17:27:17.749+05:30  INFO 7436 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:27:17.759+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : START
+2025-07-13T17:27:17.764+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : END
+2025-07-13T17:27:17.769+05:30  INFO 7436 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:27:17.929+05:30  WARN 4936 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:27:17.891+05:30  WARN 5892 --- [spring-learn] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-07-13T17:27:17.994+05:30  INFO 5892 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57565 (http) with context path '/'
+2025-07-13T17:27:18.014+05:30  INFO 4936 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57566 (http) with context path '/'
+2025-07-13T17:27:18.024+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 6.307 seconds (process running for 372.164)
+2025-07-13T17:27:18.074+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Started SpringLearnApplication in 6.907 seconds (process running for 434.184)
+2025-07-13T17:27:18.084+05:30  INFO 5892 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:27:18.094+05:30  INFO 4936 --- [spring-learn] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-13T17:27:18.094+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : START
+2025-07-13T17:27:18.099+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : START
+2025-07-13T17:27:18.101+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : END
+2025-07-13T17:27:18.113+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : END
+2025-07-13T17:27:18.119+05:30  INFO 4936 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T17:27:18.113+05:30  INFO 5892 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : THIS IS A LOG TEST - CAN YOU SEE ME?
+2025-07-13T21:05:23.196+05:30  INFO 13076 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 13076 (C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn)
+2025-07-13T21:05:23.215+05:30  INFO 13076 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T21:05:23.366+05:30  INFO 13076 --- [spring-learn] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-07-13T21:05:23.378+05:30  INFO 13076 --- [spring-learn] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-07-13T21:05:26.324+05:30  INFO 13076 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2025-07-13T21:05:26.371+05:30  INFO 13076 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T21:05:26.374+05:30  INFO 13076 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T21:05:26.490+05:30  INFO 13076 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T21:05:26.492+05:30  INFO 13076 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3112 ms
+2025-07-13T21:05:26.654+05:30  WARN 13076 --- [spring-learn] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloController' defined in file [C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn\target\classes\com\cognizant\spring_learn\controller\HelloController.class]: Failed to instantiate [com.cognizant.spring_learn.controller.HelloController]: Constructor threw exception
+2025-07-13T21:05:26.663+05:30  INFO 13076 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2025-07-13T21:05:26.716+05:30  INFO 13076 --- [spring-learn] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-07-13T21:05:26.780+05:30 ERROR 13076 --- [spring-learn] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloController' defined in file [C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn\target\classes\com\cognizant\spring_learn\controller\HelloController.class]: Failed to instantiate [com.cognizant.spring_learn.controller.HelloController]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1357) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1242) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:569) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1222) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1188) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1123) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.3.jar:3.5.3]
+	at com.cognizant.spring_learn.SpringLearnApplication.main(SpringLearnApplication.java:11) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.5.3.jar:3.5.3]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.cognizant.spring_learn.controller.HelloController]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:223) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1351) ~[spring-beans-6.2.8.jar:6.2.8]
+	... 24 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	The declared package "com.cognizant.springlearn.controller" does not match the expected package "com.cognizant.spring_learn.controller"
+
+	at com.cognizant.spring_learn.controller.HelloController.<init>(HelloController.java:1) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:197) ~[spring-beans-6.2.8.jar:6.2.8]
+	... 26 common frames omitted
+
+2025-07-13T21:07:58.035+05:30  INFO 2948 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 2948 (C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn)
+2025-07-13T21:07:58.042+05:30  INFO 2948 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T21:07:58.171+05:30  INFO 2948 --- [spring-learn] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-07-13T21:07:58.171+05:30  INFO 2948 --- [spring-learn] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-07-13T21:08:00.658+05:30  INFO 2948 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8083 (http)
+2025-07-13T21:08:00.690+05:30  INFO 2948 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T21:08:00.696+05:30  INFO 2948 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T21:08:00.785+05:30  INFO 2948 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T21:08:00.789+05:30  INFO 2948 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2614 ms
+2025-07-13T21:08:00.912+05:30  WARN 2948 --- [spring-learn] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloController' defined in file [C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn\target\classes\com\cognizant\spring_learn\controller\HelloController.class]: Failed to instantiate [com.cognizant.spring_learn.controller.HelloController]: Constructor threw exception
+2025-07-13T21:08:00.920+05:30  INFO 2948 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2025-07-13T21:08:00.955+05:30  INFO 2948 --- [spring-learn] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-07-13T21:08:01.014+05:30 ERROR 2948 --- [spring-learn] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloController' defined in file [C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn\target\classes\com\cognizant\spring_learn\controller\HelloController.class]: Failed to instantiate [com.cognizant.spring_learn.controller.HelloController]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1357) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1242) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:569) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1222) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1188) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1123) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.3.jar:3.5.3]
+	at com.cognizant.spring_learn.SpringLearnApplication.main(SpringLearnApplication.java:11) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.5.3.jar:3.5.3]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.cognizant.spring_learn.controller.HelloController]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:223) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1351) ~[spring-beans-6.2.8.jar:6.2.8]
+	... 24 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	The declared package "com.cognizant.springlearn.controller" does not match the expected package "com.cognizant.spring_learn.controller"
+
+	at com.cognizant.spring_learn.controller.HelloController.<init>(HelloController.java:1) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:197) ~[spring-beans-6.2.8.jar:6.2.8]
+	... 26 common frames omitted
+
+2025-07-13T21:14:08.822+05:30  INFO 1448 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : Starting SpringLearnApplication using Java 17.0.12 with PID 1448 (C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn\target\classes started by admin in C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn)
+2025-07-13T21:14:08.831+05:30  INFO 1448 --- [spring-learn] [restartedMain] c.c.spring_learn.SpringLearnApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T21:14:08.968+05:30  INFO 1448 --- [spring-learn] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-07-13T21:14:08.973+05:30  INFO 1448 --- [spring-learn] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-07-13T21:14:11.951+05:30  INFO 1448 --- [spring-learn] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8083 (http)
+2025-07-13T21:14:11.996+05:30  INFO 1448 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-13T21:14:12.001+05:30  INFO 1448 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-13T21:14:12.126+05:30  INFO 1448 --- [spring-learn] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-13T21:14:12.127+05:30  INFO 1448 --- [spring-learn] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3151 ms
+2025-07-13T21:14:12.291+05:30  WARN 1448 --- [spring-learn] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloController' defined in file [C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn\target\classes\com\cognizant\spring_learn\controller\HelloController.class]: Failed to instantiate [com.cognizant.spring_learn.controller.HelloController]: Constructor threw exception
+2025-07-13T21:14:12.301+05:30  INFO 1448 --- [spring-learn] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2025-07-13T21:14:12.341+05:30  INFO 1448 --- [spring-learn] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-07-13T21:14:12.411+05:30 ERROR 1448 --- [spring-learn] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloController' defined in file [C:\Users\admin\Desktop\KHUSHI\Other Reposetories\CognizantJavaFSE\week4\Exercise3\spring-learn\target\classes\com\cognizant\spring_learn\controller\HelloController.class]: Failed to instantiate [com.cognizant.spring_learn.controller.HelloController]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1357) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1242) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:569) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1222) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1188) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1123) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.8.jar:6.2.8]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.3.jar:3.5.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.3.jar:3.5.3]
+	at com.cognizant.spring_learn.SpringLearnApplication.main(SpringLearnApplication.java:11) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.5.3.jar:3.5.3]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.cognizant.spring_learn.controller.HelloController]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:223) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122) ~[spring-beans-6.2.8.jar:6.2.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1351) ~[spring-beans-6.2.8.jar:6.2.8]
+	... 24 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	The declared package "com.cognizant.springlearn.controller" does not match the expected package "com.cognizant.spring_learn.controller"
+
+	at com.cognizant.spring_learn.controller.HelloController.<init>(HelloController.java:1) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:197) ~[spring-beans-6.2.8.jar:6.2.8]
+	... 26 common frames omitted
+

@@ -1,0 +1,14 @@
+Answers to SME Questions:
+What happens in the controller method?
+
+The method loads the Spring application context from the XML file
+
+Retrieves the "in" bean (which is a Country object) from the context
+
+Returns the Country object which is automatically converted to JSON
+
+How the bean is converted into JSON response?
+
+Spring Boot automatically converts the returned Java object to JSON using Jackson library
+
+The @RestController annotation enables this automatic conversion
